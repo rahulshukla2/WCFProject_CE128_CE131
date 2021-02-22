@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.Form1.resources
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.Properties.Resources.resources
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\bin\Debug\WcfServiceHostProj1.exe.config
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\bin\Debug\WcfServiceHostProj1.exe
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\bin\Debug\WcfServiceHostProj1.pdb
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\bin\Debug\WcfServiceLibraryProj1.dll
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\bin\Debug\WcfServiceLibraryProj1.pdb
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\bin\Debug\WcfServiceLibraryProj1.dll.config
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.CopyComplete
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.exe
+C:\Users\Admin\source\repos\WcfServiceProj1\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.pdb
